@@ -58,11 +58,20 @@ Sales
 AI chatbots can pre-qualify leads, provide quotes to potential customers, and start a proactive conversation, which frees up time for salespeople to focus on closing sales.
 
 
+![Screenshot (10)](https://user-images.githubusercontent.com/114508671/193008154-62e4cd6b-7786-4b1e-837b-7b7e82c5ee44.png)
 
 
-##Tech stack
+![Screenshot (11)](https://user-images.githubusercontent.com/114508671/193008215-b9a07b0c-cc76-4a99-b199-1f4ee100335e.png)
 
-# Languages and azure services used in my bot:
+![Screenshot (12)](https://user-images.githubusercontent.com/114508671/193008245-e1dd2647-1e0b-4f63-b388-b1c53f8eb29a.png)
+
+![Screenshot (13)](https://user-images.githubusercontent.com/114508671/193008452-a61f11cf-9718-4fe5-b1a3-7b5c78ee1027.png)
+
+
+
+#Tech stack
+
+##Languages and azure services used in my bot:
 -(Azure hosting)
 -Qn maker
 -web app bot
