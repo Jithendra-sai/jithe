@@ -57,6 +57,7 @@ AI chatbots are used to send targeted offers to loyal customers, track customer 
 Sales
 AI chatbots can pre-qualify leads, provide quotes to potential customers, and start a proactive conversation, which frees up time for salespeople to focus on closing sales.
 
+##screenshots
 
 ![Screenshot (10)](https://user-images.githubusercontent.com/114508671/193008154-62e4cd6b-7786-4b1e-837b-7b7e82c5ee44.png)
 
