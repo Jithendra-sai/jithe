@@ -59,16 +59,23 @@ AI chatbots can pre-qualify leads, provide quotes to potential customers, and st
 
 ##screenshots
 
-![Screenshot (10)](https://user-images.githubusercontent.com/114508671/193008154-62e4cd6b-7786-4b1e-837b-7b7e82c5ee44.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/114508671/193321730-12645d8d-f28a-48b8-8000-bf92613be2ce.png)
 
+![Screenshot (16)](https://user-images.githubusercontent.com/114508671/193321755-ca617ea7-631f-4914-beda-7a139a4cfc90.png)
 
-![Screenshot (11)](https://user-images.githubusercontent.com/114508671/193008215-b9a07b0c-cc76-4a99-b199-1f4ee100335e.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/114508671/193321782-0de4e876-6996-4acf-a19e-cb72164cb969.png)
 
-![Screenshot (12)](https://user-images.githubusercontent.com/114508671/193008245-e1dd2647-1e0b-4f63-b388-b1c53f8eb29a.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/114508671/193321797-37ba0964-1773-4297-95b8-c6b9b291868d.png)
 
-![Screenshot (13)](https://user-images.githubusercontent.com/114508671/193008452-a61f11cf-9718-4fe5-b1a3-7b5c78ee1027.png)
+![Screenshot (19)](https://user-images.githubusercontent.com/114508671/193321814-b98b212c-7e72-4ee4-b631-2c6d9dbea7f7.png)
 
+![Screenshot (20)](https://user-images.githubusercontent.com/114508671/193321866-f7178526-9c78-4867-8c68-5aafc04d2de7.png)
 
+![Screenshot (21)](https://user-images.githubusercontent.com/114508671/193321880-aeeedb7b-ae75-4768-bd31-7b48329dd086.png)
+
+![Screenshot (22)](https://user-images.githubusercontent.com/114508671/193321894-4f67c396-15d0-440c-aa6c-2f7cdc0fe3e0.png)
+
+![Screenshot (23)](https://user-images.githubusercontent.com/114508671/193321918-269d4519-85dc-477c-87b3-fb46f0adb741.png)
 
 #Tech stack
 
